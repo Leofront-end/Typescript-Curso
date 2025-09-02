@@ -2,7 +2,7 @@
 
 interface IUsuario {
     nome: string;
-        idade: number;
+    idade: number;
 }
 
 let user: IUsuario
